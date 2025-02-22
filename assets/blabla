@@ -1,0 +1,2 @@
+local memory = "a"
+return memory
